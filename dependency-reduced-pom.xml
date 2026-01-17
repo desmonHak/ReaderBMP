@@ -47,7 +47,7 @@
           <headerType>console</headerType>
           <jre>
             <path>${java.home}</path>
-            <bundledJre64Bit>true</bundledJre64Bit>
+            <requires64Bit>false</requires64Bit>
             <minVersion>11</minVersion>
           </jre>
         </configuration>

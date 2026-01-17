@@ -48,7 +48,7 @@
                     <headerType>console</headerType> <!--aplicacion de tipo consola-->
                     <jre>
                         <path>${java.home}</path>
-                        <bundledJre64Bit>true</bundledJre64Bit>
+                        <requires64Bit>false</requires64Bit>
                         <minVersion>11</minVersion>
                     </jre>
                 </configuration>
@@ -73,7 +73,7 @@
         <dependency>
             <groupId>io.github.desmonhak</groupId>
             <artifactId>JColorsTerm</artifactId>
-            <version>2.1.2</version>
+            <version>3.1</version>
         </dependency>
     </dependencies>
 
