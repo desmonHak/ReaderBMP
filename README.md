@@ -2,7 +2,9 @@
 
 -----
 
-ReaderBMP es una pequeña utilidad para leer archivos bmp, jpg o png en la consola
+ReaderBMP es una pequeña utilidad para leer archivos bmp, jpg o png en la consola.
+
+Puede descargar una version precompilada (.exe) para windows aqui: https://github.com/desmonHak/JColorsTerm/releases/tag/ReaderBMP
 
 ![./img/img1.png](./img/img1.png)
 
